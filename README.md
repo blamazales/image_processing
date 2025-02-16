@@ -22,7 +22,7 @@ The package image_processing is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/)
 
 '''bash
-pip install image_processing
+pip install image_processing_2025
 '''
 
 ## Author

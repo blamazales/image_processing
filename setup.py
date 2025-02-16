@@ -7,8 +7,8 @@ with open("requirements.txt") as f:
     requirements = f.read()
     
 setup(
-    name="image_processing",
-    version="0.0.1",
+    name="image_processing_2025",
+    version="0.0.4",
     author="Barbara",
     author_email="",
     description="",

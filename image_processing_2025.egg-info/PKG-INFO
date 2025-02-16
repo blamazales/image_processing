@@ -1,6 +1,6 @@
-Metadata-Version: 2.1
-Name: image_processing
-Version: 0.0.1
+Metadata-Version: 2.2
+Name: image_processing_2025
+Version: 0.0.4
 Home-page: 
 Author: Barbara
 Author-email: 
@@ -8,7 +8,12 @@ Requires-Python: >=3.8
 Description-Content-Type: text/markdown
 Requires-Dist: matplotlib
 Requires-Dist: numpy
-Requires-Dist: scikit-image>=0.16.1
+Requires-Dist: scikit-image>=0.21
+Dynamic: author
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: requires-dist
+Dynamic: requires-python
 
 ## matplotlib
 
@@ -34,7 +39,7 @@ The package image_processing is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/)
 
 '''bash
-pip install image_processing
+pip install image_processing_2025
 '''
 
 ## Author
